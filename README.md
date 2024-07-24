@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![MasterHead](https://github.com/NedFIander/KuldeepMahto/blob/main/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png?raw=true)
 <h1 align="center">Hi 👋, I'm Kuldeep Mahto</h1>
 <h3 align="center">A highly motivated and detail-oriented computer science student</h3>
 <img align="right" alt= "coding" width ="400" src ="https://cdn.dribbble.com/users/1691423/screenshots/5429072/media/f402e712ed7d467cc1707e1467bb6b90.gif">
